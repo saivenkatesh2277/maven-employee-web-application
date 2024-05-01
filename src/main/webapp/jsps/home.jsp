@@ -18,7 +18,7 @@
 	</span -->
 	<span style="font-weight: bold;">
 		DevOps Made Easy,
-		Bangalore,
+		nellore,
 		devopsmadeeasy@outlook.com
 		<br>
 		<a href="mailto:devopsmadeeasy@outlook.com">Mail to DevOps Made Easy</a>
